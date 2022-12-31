@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Easybank Landing Page](https://github.com/RupakSapkota123/easybank-landing-page.git)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://easybank-landing-page-pink-one.vercel.app/)
 
 ## My process
 
